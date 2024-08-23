@@ -1,0 +1,11 @@
+{
+	"id": "auto-alias",
+	"name": "Auto-alias",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Auto-creates aliases for different variations of your page titles (e.g. plurals, etc.) (Closed source)",
+	"author": "Ptole_me",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
