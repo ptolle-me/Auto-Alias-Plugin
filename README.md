@@ -11,7 +11,7 @@ This helps you avoid missing backlinks related to your pages and prevents the cr
 3. It then adds those as aliases to your page - [[hypotheses]]
 4. Now your backlinks for [[hypothesis]] show all mentions of both 'hypothesis' and 'hypotheses' in your vault 
 
-By using an AI model, it should be able to handle some of the more tricky words with irregular plurals (e.g. People) or words that don't need pluralising (e.g. CEO, Series).
+By using an AI model, it should be able to handle some of the more tricky words with irregular plurals (e.g. People) and words that don't need pluralising (e.g. CEO, Series).
 
 ## Roadmap 
 
@@ -37,7 +37,7 @@ You can install the plugin via the Community Plugins tab within Obsidian. Just s
 
 ## Note
 - The plugin is still in beta and in need of feedback! Please give feedback via Github Issues or email me directly: ptolemy8@protonmail.com
-- Page titles are not stored by the plugin or retained by OpenAI. They are temporarily sent to the OpenAI API to generate aliases. 
+- Page titles are temporarily sent to the OpenAI API to generate aliases. They are not stored by the plugin and OpenAI does not retain the data or use it train their models as per their [API privacy policy](https://openai.com/enterprise-privacy/)
 - It is a closed-source plugin, reviewed by Obsidian developers
 
 ## FAQ's
